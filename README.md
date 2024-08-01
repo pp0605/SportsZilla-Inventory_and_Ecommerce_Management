@@ -36,7 +36,6 @@ Our technology stack is carefully selected to provide the best possible user exp
 - **UI Components**: We leverage the **Ant Design** library for styling and pre-built components.
 - **Backend**: Powered by **Node.js** with **Express.js**, featuring custom routes and models for a tailored experience.
 - **Database**: We utilize **MongoDB** as the backend database for data storage.
-- **API Hosting**: The custom API is hosted on **Vercel** for seamless access and performance.
 
 
 ## Usage
@@ -46,4 +45,3 @@ Our technology stack is carefully selected to provide the best possible user exp
 3. Capture customer details during invoice creation, which are stored in the customer database for future use.
 4. Generate professional invoices with tax and GST.
 5. View and print invoices in the Invoices tab.
-ns and merge them if they meet our quality standards. Thank you for your interest in improving our project!
