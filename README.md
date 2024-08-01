@@ -39,10 +39,6 @@ Our technology stack is carefully selected to provide the best possible user exp
 - **Database**: We utilize **MongoDB** as the backend database for data storage.
 - **API Hosting**: The custom API is hosted on **Vercel** for seamless access and performance.
 
-## Demo
-
-Explore a live demo of our MERN Business Software at the following link: [Project Demo](sample link)
-
 ## Getting Started
 
 To get started with the project, follow these steps:
