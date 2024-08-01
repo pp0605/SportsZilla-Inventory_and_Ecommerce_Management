@@ -61,21 +61,4 @@ Make sure to configure the backend server, MongoDB, and API endpoints as needed 
 3. Capture customer details during invoice creation, which are stored in the customer database for future use.
 4. Generate professional invoices with tax and GST.
 5. View and print invoices in the Invoices tab.
-
-## Support
-
-If you have any questions or need assistance, please contact me at any of the socials
-
-## Contributions
-
-We welcome contributions from the open-source community to improve and enhance our MERN Business Software. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository to your GitHub account.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name` or `git checkout -b bugfix/your-bug-fix`.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your branch: `git push origin feature/your-feature-name`.
-5. Create a Pull Request (PR) from your branch to the `main` branch of this repository.
-6. Provide a clear and concise description of your changes in the PR.
-7. Be responsive to feedback and be willing to make necessary adjustments.
-
-Our maintainers will review your contributions and merge them if they meet our quality standards. Thank you for your interest in improving our project!
+ns and merge them if they meet our quality standards. Thank you for your interest in improving our project!
