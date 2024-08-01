@@ -1,0 +1,16 @@
+{
+  "name": "pos-mern-stack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"cd client && npm start\" \"cd server && npm start\"",
+    "installer": "concurrently \"cd client && npm install\" \"cd server && npm install\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
