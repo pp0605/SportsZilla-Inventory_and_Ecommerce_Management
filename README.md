@@ -1,6 +1,6 @@
-# MERN Business ERP Software - Inventory Management & Invoicing
+# SportsZilla: Inventory and Ecommerce Management Solution
 
-Welcome to my comprehensive MERN-based Business Software solution for efficient inventory management and invoicing. Our application provides a user-friendly interface for adding products to your inventory, creating invoices, managing customers, and generating professional invoices with ease. It operates in real-time, ensuring your data is always up to date.
+Welcome to my comprehensive MERN-based Inventory and Ecommerce Management Solution. Our application provides a user-friendly interface for adding products to your inventory, creating invoices, managing customers, and generating professional invoices with ease. It operates in real-time, ensuring your data is always up to date.
 
 ## Features
 
