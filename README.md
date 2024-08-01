@@ -34,21 +34,10 @@ Our technology stack is carefully selected to provide the best possible user exp
 
 - **Frontend**: Developed using **React** for a responsive and intuitive user interface.
 - **UI Components**: We leverage the **Ant Design** library for styling and pre-built components.
-- **State Management**: **Redux** is employed for effective state management.
 - **Backend**: Powered by **Node.js** with **Express.js**, featuring custom routes and models for a tailored experience.
 - **Database**: We utilize **MongoDB** as the backend database for data storage.
 - **API Hosting**: The custom API is hosted on **Vercel** for seamless access and performance.
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Install the required dependencies using `npm install`.
-4. Run the application using `npm start`.
-
-Make sure to configure the backend server, MongoDB, and API endpoints as needed in the project settings.
 
 ## Usage
 
